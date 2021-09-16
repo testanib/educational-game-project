@@ -1,6 +1,8 @@
 # Time Commander
 By: William Fox Cantera, Benjamin Testani
 
+https://ud-cisc374.github.io/educational-game-project-team-20-will-cantera-ben-testani/
+
 # About
 Time Commander is a tower defense game where the player must use their knowledge of analog clocks and time formats to defend their time crystal against hordes of enemies by positioning their defenses at given clock positions. Through three action packed levels, players will experience an increasing size of enemy hordes and must use the items collected from vanquished enemies, along with their defenses to survive in each level. Players will face four types of enemies that will attempt to destroy the crystal. They will have four unique turrets and five possible consumable items to help them along the way.
 
@@ -24,6 +26,4 @@ CRAZY music of course.
 # Photo of the Game in Action
 ![large](https://user-images.githubusercontent.com/47586729/82261099-6e845b00-992c-11ea-8170-2db51d66c929.PNG) 
 
-# Link to Demo of Game
-https://www.youtube.com/watch?v=z5yHWI2EYsA 
 
